@@ -4,9 +4,7 @@ bosq.dev is a software engineering studio dedicated to helping companies apply A
 
 ## 👋 About Us
 
-Welcome to the official GitHub organization for Bosq.dev!
-
-<!-- Add a paragraph or two about your company here. What is your mission? What problems do you solve for your clients? What makes your team unique? -->
+Welcome to the official GitHub organization for bosq.dev!
 
 We are a team of expert engineers and AI specialists passionate about building scalable, production-ready intelligent systems. We partner with companies to turn complex business challenges into practical, data-driven solutions.
 
@@ -15,11 +13,11 @@ We are a team of expert engineers and AI specialists passionate about building s
 We specialize in the full lifecycle of applied AI, from ideation and strategy to implementation and support.
 
 ## 📂 Quick Links  
-- 🌐 Website: https://bosq.dev  
+- Website: https://bosq.dev  
 - GitHub: https://github.com/bosq-dev  
-- Email: contact@bosq.dev  
 - LinkedIn: linkedin.com/company/bosq-dev  
 - Twitter / X: @bosq_dev  
+- Email: contact@bosq.dev
 
 ## 📢 Want to Collaborate?
 
