@@ -14,8 +14,8 @@ We specialize in the full lifecycle of applied AI, from ideation and strategy to
 
 ## 📂 Quick Links  
 - Website: [bosq.dev](https://bosq.dev)
-- GitHub: [github/bosq-dev](https://github.com/bosq-dev)
-- LinkedIn: [bosq-dev](https://linkedin.com/company/bosq-dev)
+- GitHub: [github.com/bosq-dev](https://github.com/bosq-dev)
+- LinkedIn: [linkedin.com/bosq-dev](https://linkedin.com/company/bosq-dev)
 - Twitter / X: [@bosq_dev](https://x.com/bosq_dev)
 - Email: [contact@bosq.dev](mailto:contact@bosq.dev)
 
