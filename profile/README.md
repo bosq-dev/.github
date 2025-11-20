@@ -13,11 +13,11 @@ We are a team of expert engineers and AI specialists passionate about building s
 We specialize in the full lifecycle of applied AI, from ideation and strategy to implementation and support.
 
 ## 📂 Quick Links  
-- Website: https://bosq.dev  
-- GitHub: https://github.com/bosq-dev  
-- LinkedIn: linkedin.com/company/bosq-dev  
-- Twitter / X: @bosq_dev  
-- Email: contact@bosq.dev
+- Website: [bosq.dev](https://bosq.dev)
+- GitHub: [github/bosq-dev](https://github.com/bosq-dev)
+- LinkedIn: [bosq-dev](https://linkedin.com/company/bosq-dev)
+- Twitter / X: [@bosq_dev](https://x.com/bosq_dev)
+- Email: [contact@bosq.dev](mailto:contact@bosq.dev)
 
 ## 📢 Want to Collaborate?
 
